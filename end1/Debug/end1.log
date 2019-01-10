@@ -1,0 +1,14 @@
+﻿D:\vs\vs\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(end1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+  stdafx.cpp
+cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+  end1.cpp
+d:\学习\end1\end1\end1.cpp(42): warning C4996: 'GetVersionExA': 被声明为已否决
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\sysinfoapi.h(436): note: 参见“GetVersionExA”的声明
+d:\学习\end1\end1\end1.cpp(114): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+d:\学习\end1\end1\end1.cpp(115): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+d:\学习\end1\end1\end1.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\end1\end1\end1.cpp(214): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(2218): note: 参见“gethostbyname”的声明
+d:\学习\end1\end1\end1.cpp(418): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+  end1.vcxproj -> D:\学习\end1\Debug\yaokong.exe

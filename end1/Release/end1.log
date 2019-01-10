@@ -1,0 +1,32 @@
+﻿  end1.cpp
+end1.cpp(7): warning C4603: “_CRT_SECURE_NO_WARNINGS”: 未定义宏或在预编译头使用后定义发生改变
+  end1.cpp(7): note: 将宏添加到预编译头中，而不是在此处定义
+  end1.cpp(8): note: 使用预编译头
+end1.cpp(42): error C4996: 'GetVersionExA': 被声明为已否决
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\sysinfoapi.h(436): note: 参见“GetVersionExA”的声明
+end1.cpp(96): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+end1.cpp(114): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+end1.cpp(115): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+end1.cpp(160): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+end1.cpp(174): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(132): note: 参见“strcpy”的声明
+end1.cpp(175): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+end1.cpp(398): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+end1.cpp(403): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(89): note: 参见“strcat”的声明
+end1.cpp(421): warning C4018: “<”: 有符号/无符号不匹配
+end1.cpp(214): error C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\WinSock2.h(2218): note: 参见“gethostbyname”的声明
+end1.cpp(409): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\string.h(337): note: 参见“strncpy”的声明
+end1.cpp(418): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+end1.cpp(451): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: 参见“sscanf”的声明
+end1.cpp(452): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: 参见“sscanf”的声明
+end1.cpp(479): error C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\ucrt\stdio.h(2261): note: 参见“sscanf”的声明
